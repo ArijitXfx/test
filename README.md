@@ -1,7 +1,1 @@
-import java.util.*;
-
-public class Test{
-	public static void main(String[] args){
-		System.out.println("hello world");
-	}
-}
+This repo is use to learn advance concepts on Git. This codes are nothing to do with any projects.
