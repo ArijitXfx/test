@@ -1,0 +1,7 @@
+Subject: concise summary of what happend
+
+Body: more detailed explanation
+	1. What is now different than before?
+	2. What's the reason for the change?
+	3. is there anything to watch out for /
+	anything particularly remarkable?
